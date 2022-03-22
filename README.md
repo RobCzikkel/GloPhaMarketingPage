@@ -1,4 +1,4 @@
-# GloPhaMarketingPage
+# Global Pharmacies
 #### Global Pharmacies marketing page
 
 Landing page for globalpharmacies.co.uk
